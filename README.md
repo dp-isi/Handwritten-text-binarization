@@ -9,6 +9,6 @@ python2
 
 If you use this code consider citing:
 
-<textarea id="cite" name="cite" rows="4" cols="150">
+<textarea name="cite" rows="4" cols="150">
 @article{wadhwani2020text, title={Text Extraction and Restoration of Old Handwritten Documents}, author={Wadhwani, Mayank and Kundu, Debapriya and Chakraborty, Deepayan and Chanda, Bhabatosh}, journal={arXiv preprint arXiv:2001.08742}, year={2020} }
 </textarea>
