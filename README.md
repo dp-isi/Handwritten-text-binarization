@@ -7,5 +7,6 @@ python2
 The paper is accepted in Digital heritage workshop of ICVGIP 2018, the vol. and page no. is yet to be obtained.
 
 If you use this code kindly cite: 
-
+<textarea id="cite" name="cite" rows="4" cols="150">
 @article{wadhwani2020text, title={Text Extraction and Restoration of Old Handwritten Documents}, author={Wadhwani, Mayank and Kundu, Debapriya and Chakraborty, Deepayan and Chanda, Bhabatosh}, journal={arXiv preprint arXiv:2001.08742}, year={2020} }
+</textarea>
