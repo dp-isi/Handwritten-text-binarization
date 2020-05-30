@@ -8,6 +8,15 @@ Requirements :
 python2
 
 If you use this code consider citing:
+
+    @inproceedings{plummerCITE2018,
+	Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
+	Title = {Conditional Image-Text Embedding Networks},
+	Booktitle  = {The European Conference on Computer Vision (ECCV)},
+	Year = {2018}
+    }
+
+
 @inproceedings{wadhwani2020text,
 title={Text Extraction and Restoration of Old Handwritten Documents}, 
 author={Wadhwani, Mayank and Kundu, Debapriya and Chakraborty, Deepayan and Chanda, Bhabatosh}, 
