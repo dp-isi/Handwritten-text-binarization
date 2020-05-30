@@ -1,0 +1,2 @@
+Ipython:
+>>run DocImgRestoration.py '1.bmp'
