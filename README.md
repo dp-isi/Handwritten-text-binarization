@@ -12,4 +12,3 @@ If you use this code consider citing:
 title={Text Extraction and Restoration of Old Handwritten Documents}, 
 author={Wadhwani, Mayank and Kundu, Debapriya and Chakraborty, Deepayan and Chanda, Bhabatosh}, 
 journal={arXiv preprint arXiv:2001.08742}, year={2020} }
-</textarea>
