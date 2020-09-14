@@ -1,4 +1,4 @@
-# Text Extraction and Restoration of OldHandwritten Documents</h1>
+# Text Extraction and Restoration of Old Handwritten Documents</h1>
 <a href="https://arxiv.org/pdf/2001.08742.pdf">Arxiv</a>
 <h2>Introduction</h2>
 This paper provides a CNN based approach to old handwritten document image binarization. We introduce a newly collected ISI-letters dataset which is collected from the archives of Indian Statistical Institute. The dataset will be uploaded soon.
