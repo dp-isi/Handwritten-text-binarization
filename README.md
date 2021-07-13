@@ -1,8 +1,8 @@
 # Text Extraction and Restoration of Old Handwritten Documents</h1>
 <a href="https://arxiv.org/pdf/2001.08742.pdf">Arxiv</a>
+<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-57907-4_6">Paper</a>
 <h2>Introduction</h2>
-This paper provides a CNN based approach to old handwritten document image binarization. We introduce a newly collected ISI-letters dataset which is collected from the archives of Indian Statistical Institute. The dataset will be uploaded soon.
-This paper is accepted in <a href="http://dtu.ac.in/Platforms/WDH_CFP/">Digital heritage workshop of ICVGIP 2018</a>, the vol. and page no. is yet to be obtained.
+This paper provides a CNN based approach to old handwritten document image binarization. We introduce a newly collected ISI-letters dataset which is collected from the archives of Indian Statistical Institute.
 
 Requirements :
 python2
