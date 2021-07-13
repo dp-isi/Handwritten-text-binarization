@@ -9,11 +9,13 @@ python2
 
 If you use this code consider citing:
 
-    @inproceedings{wadhwani2020text,
-	Author = {Wadhwani, Mayank and Kundu, Debapriya and Chakraborty, Deepayan and Chanda, Bhabatosh},
-	Title = {Text Extraction and Restoration of Old Handwritten Documents},
-	journal={arXiv preprint arXiv:2001.08742}, 
-	Year = {2020}
-    }
+    @article{wadhwani2021text,
+	  title={Text extraction and restoration of old handwritten documents},
+	  author={Wadhwani, Mayank and Kundu, Debapriya and Chakraborty, Deepayan and Chanda, Bhabatosh},
+	  journal={Digital Techniques for Heritage Presentation and Preservation},
+	  pages={109--132},
+	  year={2021},
+	  publisher={Springer}
+	}
 
 
